@@ -4,7 +4,7 @@
 This is the Ongame front-end challenge. It is a generic example of what your daily life will be like.
 
 ## Prerequisites
-You should to know GIT, HTML, CSS and JavaScript.
+You should know GIT, HTML, CSS and JavaScript.
 
 ## Getting Started
 Fork this repository, it needs to stay on GitHub, available for everyone.
