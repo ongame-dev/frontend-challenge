@@ -12,9 +12,9 @@ Fork this repository, it needs to stay on GitHub, available for everyone.
 ## The Challenge
 You will create the example-x.png where you will display the items available for players to redeem.
 
-Items will be loaded by GET [this json](https://br.ongame.net/static/items.json)
+Items will be loaded by GET [this json](https://br.ongame.net/api/challenge/items/)
 
-Clicking on the redeem button, you will send POST to [this URL](https://br.ongame.net/static/redeem.json) with this data:
+Clicking on the redeem button, you will send POST to [this URL](https://br.ongame.net/api/challenge/item/redeem/) with this data:
 
 ```json
 {
